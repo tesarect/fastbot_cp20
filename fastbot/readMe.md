@@ -5,10 +5,10 @@
 [![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-red)](https://www.raspberrypi.org/)
 
 Implementing ROS2 enabled mobile robot (**FastBot**) — a differential drive robot with LiDAR and camera integration, built on Raspberry Pi with ROS2 Humble.
+
 ---
 
 ## Table of Contents
-
 - [Overview](#overview)
 - [Packages](#packages)
 - [Requirements](#requirements)
